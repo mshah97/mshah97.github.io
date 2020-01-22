@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "JSrunner",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "images/pirate_PNG90.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "JSrunner",
+  "short_name": "JSRUN",
+  "start_url": "/jsrun2/index.html"
+}
